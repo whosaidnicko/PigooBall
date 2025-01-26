@@ -8,9 +8,9 @@ workflows:
     environment:
       ios_signing:
         provisioning_profiles:
-         - profile: certjfjcapiggo
+         - profile: profplinks
         certificates:
-         - certificate: profplinks
+         - certificate: certjfjcapiggo
       vars:
         BUNDLE_ID: "pil.yav.uz459p2h"
         XCODE_PROJECT: "PigooBall.xcodeproj"
