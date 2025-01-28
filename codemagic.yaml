@@ -8,14 +8,14 @@ workflows:
     environment:
       ios_signing:
         provisioning_profiles:
-         - profile: profplinks
+         - profile: profikSvinia
         certificates:
-         - certificate: certjfjcapiggo
+         - certificate: pigooCert
       vars:
-        BUNDLE_ID: "pil.yav.uz459p2h"
+        BUNDLE_ID: "ospae.vptyaila.vokv"
         XCODE_PROJECT: "PigooBall.xcodeproj"
         XCODE_SCHEME: "PigooBall"
-        APP_STORE_APPLE_ID: 6741027226
+        APP_STORE_APPLE_ID: 6741119852
       xcode: 16.0
 
     scripts:
